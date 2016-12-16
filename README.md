@@ -10,7 +10,6 @@ Python 2.7.*
 ## Installation
 
 ```sh
-pip install -r requirements.txt
 bash setup.sh
 ./inshort.sh paper.pdf
 ```
@@ -18,4 +17,3 @@ bash setup.sh
 ## Acknowledgments
 * [pdfminer](https://github.com/euske/pdfminer)
 * [summpy](https://github.com/recruit-tech/summpy)
-

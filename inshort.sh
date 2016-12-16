@@ -1,5 +1,4 @@
 #!/bin/sh
-
 if [ $# -ne 1 ]; then
     echo "Input PDF file path."
     exit 1

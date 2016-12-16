@@ -6,3 +6,5 @@ if [ ! -d ./pdfminer ]; then
     python setup.py install
     cd ..
 fi
+
+pip install -r requirements.txt
