@@ -11,6 +11,7 @@ Python 2.7.*
 
 ```sh
 pip install -r requirements.txt
+bash setup.sh
 ./inshort.sh paper.pdf
 ```
 
